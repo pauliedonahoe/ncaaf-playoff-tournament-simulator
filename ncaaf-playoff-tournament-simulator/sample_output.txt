@@ -1,0 +1,56 @@
+This code provides its output in the console, with the percentage probabilities (out of 100) of each team winning in each round of the playoff.
+
+
+Here is a sample output in the console:
+Round of twelve percentages:
+       Team  Percentage
+     Texas        92.36
+   Georgia        90.16
+Notre Dame        68.04
+  Michigan        59.29
+ Tennessee        40.71
+Texas Tech        31.96
+Arizona St         9.84
+  NC State         7.64
+Elite eight percentages:
+        Team  Percentage
+     Oregon        74.15
+    Ohio St        66.90
+       Utah        60.19
+    Georgia        55.83
+Mississippi        42.03
+      Texas        39.20
+ Notre Dame        24.53
+   Michigan        15.92
+  Tennessee         9.93
+ Texas Tech         8.57
+ Arizona St         2.14
+   NC State         0.61
+Final four percentages:
+        Team  Percentage
+    Ohio St        46.53
+       Utah        32.45
+     Oregon        30.47
+    Georgia        30.41
+      Texas        18.63
+Mississippi        18.15
+ Notre Dame        13.75
+ Texas Tech         3.96
+   Michigan         3.47
+  Tennessee         1.82
+ Arizona St         0.33
+   NC State         0.03
+National champion percentages:
+        Team  Percentage
+    Ohio St        35.60
+     Oregon        18.76
+       Utah        11.86
+    Georgia        10.64
+ Notre Dame         8.90
+      Texas         5.24
+Mississippi         4.86
+ Texas Tech         2.01
+   Michigan         1.49
+  Tennessee         0.60
+ Arizona St         0.03
+   NC State         0.01

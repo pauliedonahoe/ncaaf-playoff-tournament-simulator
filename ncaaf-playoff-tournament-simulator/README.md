@@ -18,7 +18,8 @@ The input is set up by creating a CSV with twelve NCAAF teams, their seed for th
 \#\# Output in Console  
 This code provides its output in the console containing the percentage probabilities (out of 100\) of each team winning in each round of the playoff.
 
-Here is a sample output in the console:  
+Here is a sample output from the console:  
+
 Round of twelve percentages:  
        Team  Percentage  
      Texas        92.36  
@@ -29,6 +30,7 @@ Notre Dame        68.04
 Texas Tech        31.96  
 Arizona St         9.84  
   NC State         7.64  
+
 Elite eight percentages:  
         Team  Percentage  
      Oregon        74.15  
@@ -43,6 +45,7 @@ Mississippi        42.03
  Texas Tech         8.57  
  Arizona St         2.14  
    NC State         0.61  
+
 Final four percentages:  
         Team  Percentage  
     Ohio St        46.53  
@@ -57,6 +60,7 @@ Mississippi        18.15
   Tennessee         1.82  
  Arizona St         0.33  
    NC State         0.03  
+
 National champion percentages:  
         Team  Percentage  
     Ohio St        35.60  

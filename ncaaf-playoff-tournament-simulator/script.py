@@ -17,10 +17,10 @@ from collections import Counter
 import numpy as np
 
 ## Inputs
-input_csv_file_path = '/Users/pauliedonahoe/Downloads/tournament_data.csv'
+input_csv_file_path = '/YOUR_FILE_PATH/tournament_data.csv'
 number_of_simulations = 10000
 
-## No outputs - only outputs in console at bottom of code
+## No output files - only outputs in console
 
 
 # In[4]:

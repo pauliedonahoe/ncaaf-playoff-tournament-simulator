@@ -1,7 +1,7 @@
 \# NCAAF Playoff Tournament Simulator
 
 \#\# Disclaimer on Usage of Generative AI  
-While this work was created by me, the code itself was largely generated through prompting GenAI (ChatGPT). I provided the prompts and any necessary code debugging throughout the process \- but it was artificial intelligence that was the primary developer for the Python script.
+The Python script for this project was developed with AI-assisted prompting, while I guided the conceptual planning, debugging, data flow, and overall integration for the final product.
 
 \#\# Overview  
 This code first inputs a CSV file containing twelve NCAAF teams, their seed for the tournament (\#1 through \#12), and their Predictive Rating from [TeamRankings.com](http://TeamRankings.com). Then, using these twelve teams, it runs a defined number of simulations of the NCAAF playoff format, simulating each individual game using a random normal distribution. Finally, it outputs the percentage probability (out of 100\) for each team to win in each round of the playoff.
